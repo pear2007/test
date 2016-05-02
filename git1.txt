@@ -28,3 +28,6 @@ git remote add origin  https://github.com/pear2007/trips.git
 git push -u origin master 
 
  https://github.com/pear2007/test.git
+ https://github.com/pear2007/test.git
+ https://github.com/pear2007/test.git
+
