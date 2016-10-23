@@ -1,0 +1,9 @@
+select  * from  dbo.T_SUB_USERINFO_LOG  where LOG_TIME<'2016-04-05 15:34:45.657'  
+
+select  * from  dbo.T_SUB_USERINFO_LOG  where LOG_TIME<'2017-05-05 15:34:45.657'  
+
+
+delete    dbo.T_SUB_USERINFO_LOG  where LOG_TIME<'2016-04-05 15:34:45.657' 
+
+delete    dbo.T_SUB_USERINFO_LOG  where LOG_TIME<'2016-03-17 00:00:00.000'
+2016-03-17 00:00:00.000
